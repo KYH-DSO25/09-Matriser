@@ -9,8 +9,29 @@
 * 
 */
 
-Console.Write("Ange")
+Console.Write("Ange storleken på matrisen: ");
+int n = int.Parse(Console.ReadLine());
+
+int[,] matrix = new int[n, n];
+
+for (int row = 0, count = 1; row < n; row++)
+{
+    for (int col = 0; col < n; col++)
+    {
+        matrix[col, row] = count++;
+    }
+}
+
+// Skriv ut matrisen
+for (int row = 0; row < n; row++)
+{
+    for(int col = 0; col < n; col++)
+    {
+        Console.Write("{0, 4}", matrix[row, col]);
+    }
+    Console.WriteLine("\n");
+}
 
 
-Console.Write("Tryck på en tangent för att stänga fönstret...");
+Console.Write("\n\nTryck på en tangent för att stänga fönstret...");
 Console.ReadKey();
