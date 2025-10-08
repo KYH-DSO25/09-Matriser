@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Matris variant A", "01 Matris variant A\01 Matris variant A.csproj", "{F43DA1FE-3F0E-47BF-AD79-38C87B49A231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Matris variant B", "01 Matris variant B\01 Matris variant B.csproj", "{32960630-7A2B-4F5D-A402-BB993021DED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Matris variant C", "01 Matris variant C\01 Matris variant C.csproj", "{7BC83A91-B5EF-437E-BEB5-7F936396DE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Matris variant D", "01 Matris variant D\01 Matris variant D.csproj", "{B6693E04-5609-4CD9-B6F4-F4048D6CFF20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Maximal summa för kvadrat", "02 Maximal summa för kvadrat\02 Maximal summa för kvadrat.csproj", "{A5CA374B-846A-4B38-BB69-BEFB55682D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Längsta sekvens av identiska strängar", "03 Längsta sekvens av identiska strängar\03 Längsta sekvens av identiska strängar.csproj", "{307FC9C6-A1CA-41CC-8664-5FA40D909DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Största talet med Binary Search", "04 Största talet med Binary Search\04 Största talet med Binary Search.csproj", "{6266872F-D857-44E6-8026-169D86785E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 Sortera strängar efter längd", "05 Sortera strängar efter längd\05 Sortera strängar efter längd.csproj", "{1E48C510-6815-44BB-B085-2D5601D11793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Klass Matris", "06 Klass Matris\06 Klass Matris.csproj", "{634FD1E6-05B8-4B02-A413-69A6249A54C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Största området med identiska element", "07 Största området med identiska element\07 Största området med identiska element.csproj", "{42A81EBF-CB06-4D65-8105-977385D19064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43DA1FE-3F0E-47BF-AD79-38C87B49A231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43DA1FE-3F0E-47BF-AD79-38C87B49A231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43DA1FE-3F0E-47BF-AD79-38C87B49A231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43DA1FE-3F0E-47BF-AD79-38C87B49A231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32960630-7A2B-4F5D-A402-BB993021DED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32960630-7A2B-4F5D-A402-BB993021DED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32960630-7A2B-4F5D-A402-BB993021DED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32960630-7A2B-4F5D-A402-BB993021DED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC83A91-B5EF-437E-BEB5-7F936396DE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC83A91-B5EF-437E-BEB5-7F936396DE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC83A91-B5EF-437E-BEB5-7F936396DE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC83A91-B5EF-437E-BEB5-7F936396DE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6693E04-5609-4CD9-B6F4-F4048D6CFF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6693E04-5609-4CD9-B6F4-F4048D6CFF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6693E04-5609-4CD9-B6F4-F4048D6CFF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6693E04-5609-4CD9-B6F4-F4048D6CFF20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CA374B-846A-4B38-BB69-BEFB55682D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CA374B-846A-4B38-BB69-BEFB55682D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CA374B-846A-4B38-BB69-BEFB55682D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CA374B-846A-4B38-BB69-BEFB55682D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307FC9C6-A1CA-41CC-8664-5FA40D909DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307FC9C6-A1CA-41CC-8664-5FA40D909DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307FC9C6-A1CA-41CC-8664-5FA40D909DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307FC9C6-A1CA-41CC-8664-5FA40D909DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6266872F-D857-44E6-8026-169D86785E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6266872F-D857-44E6-8026-169D86785E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6266872F-D857-44E6-8026-169D86785E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6266872F-D857-44E6-8026-169D86785E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E48C510-6815-44BB-B085-2D5601D11793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E48C510-6815-44BB-B085-2D5601D11793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E48C510-6815-44BB-B085-2D5601D11793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E48C510-6815-44BB-B085-2D5601D11793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634FD1E6-05B8-4B02-A413-69A6249A54C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634FD1E6-05B8-4B02-A413-69A6249A54C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634FD1E6-05B8-4B02-A413-69A6249A54C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634FD1E6-05B8-4B02-A413-69A6249A54C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A81EBF-CB06-4D65-8105-977385D19064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A81EBF-CB06-4D65-8105-977385D19064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A81EBF-CB06-4D65-8105-977385D19064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A81EBF-CB06-4D65-8105-977385D19064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B2A9510-7871-424F-9073-4750D0C07203}
+	EndGlobalSection
+EndGlobal
