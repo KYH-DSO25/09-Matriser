@@ -23,7 +23,8 @@ for (int col = 0, row = 0, count = 1; col < n; col++)
         row += isDirsDown ? +1 : -1;    // Justera värdet för radnummer
     }
     // Byt riktning och ändra radnummer
-    row += (isDirsDown = !isDirsDown) ? +1 : -1;
+    isDirsDown = !isDirsDown;           // Byt riktning
+    row += (isDirsDown) ? +1 : -1;
 }
 
 // Skriv ut matrisen
